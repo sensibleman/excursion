@@ -18,3 +18,12 @@ h1 {
 body {
   text-align: center;
 }
+.hsub {
+  font-weight: 300;
+  font-size: 40px;
+}
+h2 {
+  font-size: 21px;
+  color: Gray;
+  font-weight: normal;
+}
